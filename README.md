@@ -1,4 +1,4 @@
-## THE BAND WEB 8-)
+## THE BAND WEB  🎸 🎶 🤘
 ##### In this page, I have built some buttons to move every part of page easier!
 - __[HOME]()__ - Return to main page to see about images about the band
 - __[BAND]()__ - Information about the band 
