@@ -15,5 +15,4 @@
 ![Contact](https://github.com/minatisleeping/The-Band/blob/main/screenshots/contact.png)
 ![Social Media](https://github.com/minatisleeping/The-Band/blob/main/screenshots/social%20media.png)
 
----
 #### © 2023 minat.isleeping 🥱💤
