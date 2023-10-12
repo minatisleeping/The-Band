@@ -1,10 +1,10 @@
 ## THE BAND WEB  🎸 🎶 🤘
 ##### In this page, I have built some buttons to move every part of page easier!
-- __[HOME]()__ - Return to main page to see about images about the band
-- __[BAND]()__ - Information about the band 
-- __[TOUR]()__ - Ticket services is also provided and touring schedule in here
+- __[HOME]()__    - Return to main page to see about images about the band
+- __[BAND]()__    - Information about the band 
+- __[TOUR]()__    - Ticket services is also provided and touring schedule in here
 - __[CONTACT]()__ - Offer as well as geographic contact info target the audience who want to folow and contact with them
-- __[MORE>]()__ - Provide others services
+- __[MORE>]()__   - Provide others services
 
 ---
 ### Story:
