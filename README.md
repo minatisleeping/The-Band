@@ -21,7 +21,6 @@
 ![Home](https://github.com/minatisleeping/The-Band/blob/main/screenshots/home.png)
 ![Contact](https://github.com/minatisleeping/The-Band/blob/main/screenshots/contact.png)
 ![Social Media](https://github.com/minatisleeping/The-Band/blob/main/screenshots/social%20media.png) 
-![Footer](https://github.com/minatisleeping/The-Band/blob/main/assets/img/places/footer.png) 
 
 #### © 2023 minat.isleeping 🥱💤
 
